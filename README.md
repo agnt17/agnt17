@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right" alt = "Coding" widht = "400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
+<img align = "right" alt = "Coding" widht = "200" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnt17&label=Profile%20views&color=0e75b6&style=flat" alt="agnt17" /> </p>
 
