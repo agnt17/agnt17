@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **adityagupta20042003@gmail.com**
 
-- ⚡ Fun fact **Think more code less**
+- ⚡ Fun fact **There is always a war between 0 and 1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
