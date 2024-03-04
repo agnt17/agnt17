@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Mern developer from India</h3>
 <img align = "right" alt = "Coding" widht = "200" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnt17&label=Profile%20views&color=0e75b6&style=flat" alt="agnt17" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS, Py-game**
 
-- 💬 Ask me about **C++, Python, CSS, Bootstrap, Javascript**
+- 💬 Ask me about **C++, Python, CSS, Bootstrap, Tailwind, Javascript, ReactJs, NextJs, Machine-learning, Artificial-Intelligence, backend-dev, mern-stack **
 
 - 📫 How to reach me **adityagupta20042003@gmail.com**
 
