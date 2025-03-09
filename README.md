@@ -6,7 +6,7 @@
 ### 🔹 About Me
 - 🎓 **B.Tech in Information Technology** at **Harcourt Butler Technical University (HBTU), Kanpur**  
 - 💻 **Backend Developer at Rendezvous** | **Ex-Full Stack Developer Intern at Site Guru**
-- 🌱 Currently Masterng **Javascript, Typescript and System Design.**
+- 🌱 Currently Mastering: **Javascript, Typescript and System Design.**
 - 💬 Ask me about **C++, JavaScript, TypeScript, System Design**
 - ⚡ Fun fact: **There is always a war between 0 and 1**
 
