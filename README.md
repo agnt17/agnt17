@@ -6,15 +6,14 @@
 ### 🔹 About Me
 - 🎓 **B.Tech in Information Technology** at **Harcourt Butler Technical University (HBTU), Kanpur**  
 - 💻 **Backend Developer at Rendezvous** | **Ex-Full Stack Developer Intern at Site Guru**
-- 🌱 Currently learning **React.js, PyGame**
-- 💬 Ask me about **C++, Python, JavaScript, MERN Stack, Backend Development, System Design**
+- 🌱 Currently Masterng **Javascript, Typescript and System Design.**
+- 💬 Ask me about **C++, JavaScript, TypeScript, System Design**
 - ⚡ Fun fact: **There is always a war between 0 and 1**
 
 ### 🔗 Connect With Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-gupta-452790229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya Gupta LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/adityagupta1859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityagupta1859" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adi_20042003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adi_20042003" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adi_20042003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adi_20042003" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/agent17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="agent17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/aadityaa17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adi_9865" height="30" width="40" /></a>
